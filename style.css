@@ -1,0 +1,22 @@
+.menu-container{
+    width: 100%;
+    height: auto;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.button{
+    width:250px;
+    height:30px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    padding:15px;
+    margin:30px;
+    background-color: grey;
+}
+.button-1, .button-2, .button-3{
+    background: midnightblue;
+    color:aliceblue
+    
+}
