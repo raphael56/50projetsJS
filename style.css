@@ -1,3 +1,12 @@
+
+h1{
+    text-align: center;
+    font-size: 24px;
+    margin: 100px auto;
+}
+
+
+
 .menu-container{
     width: 100%;
     height: auto;
@@ -16,7 +25,11 @@
     background-color: grey;
 }
 .button-1, .button-2, .button-3{
-    background: midnightblue;
+    background: #333;
     color:aliceblue
     
+}
+.button-4{
+    background: #777 ;
+    color:beige;
 }
